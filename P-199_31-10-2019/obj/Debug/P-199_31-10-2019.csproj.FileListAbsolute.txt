@@ -1,0 +1,11 @@
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-199-87 Avenue Rd\Automation\Crestron\1. Programs\3.Simpl# Pro\P-199_31-10-2019\bin\Debug\P-199_31-10-2019.dll
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-199-87 Avenue Rd\Automation\Crestron\1. Programs\3.Simpl# Pro\P-199_31-10-2019\bin\Debug\P-199_31-10-2019.pdb
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-199-87 Avenue Rd\Automation\Crestron\1. Programs\3.Simpl# Pro\P-199_31-10-2019\bin\Debug\Crestron.SimplSharpPro.AudioDistribution.dll
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-199-87 Avenue Rd\Automation\Crestron\1. Programs\3.Simpl# Pro\P-199_31-10-2019\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-199-87 Avenue Rd\Automation\Crestron\1. Programs\3.Simpl# Pro\P-199_31-10-2019\bin\Debug\Crestron.SimplSharpPro.EthernetCommunications.dll
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-199-87 Avenue Rd\Automation\Crestron\1. Programs\3.Simpl# Pro\P-199_31-10-2019\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-199-87 Avenue Rd\Automation\Crestron\1. Programs\3.Simpl# Pro\P-199_31-10-2019\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-199-87 Avenue Rd\Automation\Crestron\1. Programs\3.Simpl# Pro\P-199_31-10-2019\bin\Debug\SimplSharpPro.exe
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-199-87 Avenue Rd\Automation\Crestron\1. Programs\3.Simpl# Pro\P-199_31-10-2019\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-199-87 Avenue Rd\Automation\Crestron\1. Programs\3.Simpl# Pro\P-199_31-10-2019\obj\Debug\P-199_31-10-2019.dll
+C:\Users\user\Dropbox (Advanced Integration)\Active Projects\Automation\P-199-87 Avenue Rd\Automation\Crestron\1. Programs\3.Simpl# Pro\P-199_31-10-2019\obj\Debug\P-199_31-10-2019.pdb
